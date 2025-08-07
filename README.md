@@ -1,16 +1,19 @@
-## Hi there 👋
+# 💻 Full-Stack Developer | Backend & Algorithms Expert | Clean Code Enthusiast
 
-<!--
-**ester-bloch/ester-bloch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineer with a strong focus on **backend systems**, **complex algorithms**, and **scalable architecture**.  
+With rich experience across cutting-edge technologies and modern design patterns, I love building **elegant**, **high-performance** solutions to real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What drives me
+
+- 🧠 Designing and building backend systems with **advanced design patterns** and **clean architecture**
+- 🔧 Building **robust backend services and APIs**
+- 🚀 Thriving in **smart, high-challenge environments** that demand deep technical thinking
+- 💻 Working with modern stacks: **Java**, **C#**, **Python**, **Node.js**, **React**, **Angular**
+
+---
+
+## 🌟 My Mindset
+
+> Always curious. Always learning. Always coding.
