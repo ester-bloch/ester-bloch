@@ -14,6 +14,8 @@ With rich experience across cutting-edge technologies and modern design patterns
 
 ---
 
-## 🌟 My Mindset
+## 🌟 I thrive in smart, challenging environments that demand deep thinking and continuous growth.
+
+
 
 > Always curious. Always learning. Always coding.
