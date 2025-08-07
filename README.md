@@ -14,7 +14,7 @@ With rich experience across cutting-edge technologies and modern design patterns
 
 ---
 
-** 🌟 I thrive in smart, challenging environments that demand deep thinking and continuous growth. **
+**🌟 I thrive in smart, challenging environments that demand deep thinking and continuous growth.**
 
 
 
